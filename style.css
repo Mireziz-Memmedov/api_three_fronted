@@ -21,6 +21,7 @@ body input, body .btn {
 }
 #JS .btn h2 {
   cursor: pointer;
+  color: #ffffff;
 }
 #JS .box {
   text-align: center;
